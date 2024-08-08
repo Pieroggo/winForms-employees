@@ -1,0 +1,10 @@
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.csproj.AssemblyReference.cache
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.Properties.Resources.resources
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.View.Form1.resources
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.csproj.GenerateResource.cache
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.csproj.CoreCompileInputs.cache
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\bin\Debug\EmployeesApp.exe.config
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\bin\Debug\EmployeesApp.exe
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\bin\Debug\EmployeesApp.pdb
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.exe
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Employees\winForms-employees\EmployeesApp\EmployeesApp\obj\Debug\EmployeesApp.pdb
