@@ -178,5 +178,7 @@ namespace EmployeesApp.View
             Console.WriteLine(employeeBox.SelectedIndex);
             GetEmployeeFromListBox?.Invoke(employeeBox.SelectedIndex);
         }
+
+        
     }
 }
